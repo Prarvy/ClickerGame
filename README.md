@@ -2,8 +2,11 @@
 A Simple Clicker game in Python.
 
 Project Name: Clicker Game
+
 Version: 1.0: Base version by author
+
 Designed by Prakash Srinivasan ( username: Prarvy | e-mail: prarvy@gmail.com )
+
 
 This is created as part of Certified Professional in Python Programming.
 
